@@ -1,2 +1,6 @@
 # 15LaboratorioA.
-Integrantes de Grupo:
+Nombre de personas que trabajaron:
+
+Cristian Rivera
+Derick Alejandro
+Kebin Vargas
